@@ -72,7 +72,7 @@ py -m phantich
 
 **You only need to do it once, on the first time**. For the following runs, you only need to run these code
 
-```cmd
+```
 cd phantich
 py -m phantich
 ```
