@@ -62,7 +62,7 @@ python3 -m phantich
 
 Note: You must run the following commands in Command Prompt (CMD), do not run on PowerShell
 ```
-py -m venv MAS291_venv 
+py -m venv MAS291_venv
 MAS291_venv\Scripts\activate.bat
 py -m pip install --upgrade pip
 pip install -r requirements.txt
