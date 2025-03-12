@@ -2,7 +2,6 @@
 # Bước 1: Đọc dữ liệu (Import data)
 
 # Install required libraries
-# pip3 install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn
 
 import pandas as pd
 import numpy as np
